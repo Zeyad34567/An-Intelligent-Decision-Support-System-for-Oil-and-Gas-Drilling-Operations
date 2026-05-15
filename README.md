@@ -211,3 +211,16 @@ The system uses real well log data from the FORCE 2020 competition and a publicl
 - Saaty, T.L. (1980). The Analytic Hierarchy Process. McGraw-Hill.
 - Hwang, C.L. and Masud, A.S.M. (1979). Multiple Objective Decision Making. Springer.
 - Turban, E., Aronson, J.E. and Liang, T.P. (2005). Decision Support Systems and Intelligent Systems. Pearson.
+
+##link to dataset used
+Multiple Well Logging Datasets
+https://www.kaggle.com/datasets/mahdialfred/multiple-well-logging-datasets
+
+AI4I 2020 Predictive Maintenance Dataset
+https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
+
+Synthetic Oil Reservoir Prediction Dataset 
+https://www.kaggle.com/datasets/amirjabari/synthetic-oil-reservoir-prediction-dataset
+
+Fossil Fuel Subsidies Database
+https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database#
