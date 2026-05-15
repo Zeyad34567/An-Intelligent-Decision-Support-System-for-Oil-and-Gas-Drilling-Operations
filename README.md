@@ -212,7 +212,8 @@ The system uses real well log data from the FORCE 2020 competition and a publicl
 - Hwang, C.L. and Masud, A.S.M. (1979). Multiple Objective Decision Making. Springer.
 - Turban, E., Aronson, J.E. and Liang, T.P. (2005). Decision Support Systems and Intelligent Systems. Pearson.
 
-##link to dataset used
+## link to dataset used
+
 Multiple Well Logging Datasets
 https://www.kaggle.com/datasets/mahdialfred/multiple-well-logging-datasets
 
@@ -223,4 +224,7 @@ Synthetic Oil Reservoir Prediction Dataset
 https://www.kaggle.com/datasets/amirjabari/synthetic-oil-reservoir-prediction-dataset
 
 Fossil Fuel Subsidies Database
-https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database#
+https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
+
+## NOTE IN THE Fossil Fuel Subsidies Database YOU SHOULD EDIT THE CSV FILE TO ONLY INCLUDE DATA RELATED TO EGYPT
+
